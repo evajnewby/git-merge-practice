@@ -1,3 +1,5 @@
 # This is a qmd file
 
 These are some updates
+# This is a qmd file.
+These are some updates to this file. Making updates during class. 
